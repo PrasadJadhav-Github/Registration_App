@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/displayMemberList"
+        android:icon="@drawable/display"
+        android:title="Display Member List" />
+
+
+    <item
+        android:id="@+id/registerNewMember"
+        android:icon="@drawable/adduser"
+        android:title="Register New Member" />
+
+</menu>
